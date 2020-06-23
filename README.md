@@ -1,4 +1,7 @@
 # COS711-Assignment-3
 Deep Learning Project to Predict Air Quallity
 
-AirQo Ugandan Air Quality Forecast Challenge
+Zindi - AirQo Ugandan Air Quality Forecast Challenge
+
+Built MLP Ensemble
+Built CNN Ensemble
